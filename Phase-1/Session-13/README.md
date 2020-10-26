@@ -99,5 +99,7 @@ After training for 300 Epochs, results look awesome!
 
 Follow the code in colab file to train YOLOv4 on your own custom dataset.
 
-Use [ROBOFLOW](https://app.roboflow.com/) to make YOLOv4 pytorch supported dataset. This allows us to make augemented images as well.
+Use [ROBOFLOW](https://app.roboflow.com/) to make YOLOv4 pytorch supported dataset. This allows us to make augemented images as well. Used Blur and Exposure.
+
+
 
